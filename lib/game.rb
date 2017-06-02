@@ -1,4 +1,4 @@
-require './frame'
+require_relative './frame'
 
 class Game
   attr_accessor :frames, :frame_index
